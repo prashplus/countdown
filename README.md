@@ -1,7 +1,7 @@
 # Countdown
  Personal Countdown.
 
- ## Authors
+## Authors
 
 * **Prashant Piprotar** - - [Prash+](https://github.com/prashplus)
 
